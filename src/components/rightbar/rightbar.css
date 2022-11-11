@@ -1,0 +1,152 @@
+.rightbar{
+    border-radius: 20px;
+    height: calc(100vh - 50px);
+    background-color: rgb(248, 248, 248);
+    overflow-y: scroll;
+    position: relative;
+    top: 50px;
+    width: 450px;
+    left: 70px;
+    padding: 10px;   
+}
+.bir{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 400px;
+    margin: 10px;
+    border-radius: 20px;
+    width: 800px;
+    
+}
+.iki{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 200px;
+    margin: 20px;
+    border-radius: 20px;
+    width: 800px;
+}
+.uc{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 200px;
+    margin: 20px;
+    border-radius: 20px;
+    width: 800px;
+}
+.righthaber{
+    display: inline;
+    position:relative;
+    right: 30px;
+    text-align: left;
+    text-align: justify;
+}
+.b.hover,
+.b.active{
+    box-shadow: 10px 10px 20px 10px rgb(86, 83, 83);
+    width: 100px;
+    height: 80px;
+}
+
+.righthaber:hover,
+.righthaber.active{
+    box-shadow: 100px 10px 0px 30px  rgb(196, 199, 170) ;
+}
+
+.rightetext{
+    position: relative;
+    left: 10px;
+    font-size: 40px;
+    color: blue;
+
+}
+
+.a{
+    display: flex; justify-content: space-between;
+}
+.date{
+    position: relative;
+    color: black;
+    right: 395px;
+    font-size: 15px;
+    top: -76px;
+}
+.headline{
+    position: relative;
+    width: 250px;
+}
+.source{
+    position: relative;
+    top: -60px;
+}
+.img1{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 300px;
+    top: -70px;
+}
+.addreel{
+    position: relative;
+    width: 120px;
+    height: 40px;
+    top: 130px;
+    right: 80px;
+    border-radius: 10px;
+    background-color: rgb(59, 59, 197);
+}
+.explorereel{
+    position: relative;
+    width: 120px;
+    height: 40px;
+    top: 130px;
+    right: 30px;
+    border-radius: 10px;
+    background-color: rgb(59, 59, 197);
+}
+.uc{
+    overflow-y: scroll;
+    height: calc(100vh - 50px);
+}
+.group{
+    border-radius: 20px;
+    background-color:  rgb(232, 228, 228);
+    padding: 50px;
+    position: relative;
+    height: 0px;
+    margin: 20px;
+    width: 250px;
+    
+}
+.groupfriend{
+    display: inline;
+    position: relative;
+    right: 20px;
+    top: -25px;
+}
+.groupimg{
+    position: relative;
+    border-radius: 50px;
+    width: 50px;
+    margin: 0px;
+}
+.joinbutton{
+    position: relative;
+    left: 50px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: blue;
+}
+.groupfriedname{
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    top: -20px;
+    left: 10px;
+}
+.add{
+    color: aliceblue;
+    font-weight: bold;
+    font-size:15px ;
+}
+

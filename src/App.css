@@ -1,0 +1,16 @@
+.App {
+ background-color:  rgb(234, 235, 235);
+ position: relative;
+ /* margin-left: 200px;
+ margin-right: 200px; */
+ 
+
+}
+.root{
+    background-color:  rgb(234, 235, 235);
+}
+@media only screen and (max-width: 1000px) {
+    .r-sidebar{width: 100%; margin: 10px 0;}
+    .l-sidebar{width: 100%; margin: 10px 0;}
+    .central-meta{width: 100%; margin: 10px 0;}
+    } 

@@ -1,0 +1,121 @@
+.sidebar{
+    border-radius: 20px;
+    flex:0.5;
+    height: calc(100vh - 50px);
+    background-color:  rgb(234, 235, 235);
+    overflow-y: scroll;
+    padding: 100px;
+    position: relative;
+    margin: 40px 0px;
+    width: 15%;
+    top: -20px;
+
+    
+   
+}
+
+.sadebarFriend{
+    position: relative;
+    width: 300px;
+    height: 100px;
+    right: 30px;
+    
+}
+.sadebarFriend:hover,
+.sadebarFriend.active{
+    box-shadow: 10px 10px 10px 10px rgb(86, 83, 83);
+}
+.sidebarFriendName1{
+    position: relative;
+    left: 40px;
+    font-size: 25px;
+    top: -25px;
+  
+}
+::-webkit-scrollbar{
+    width: 5px;
+    }
+.sidebarIcon{
+    position: relative;
+    color: rgb(86, 83, 83);
+    font-size: large;
+    top: -20px;
+   
+}
+
+
+.sidebarListItem{
+    position: relative;
+    margin: 25px;
+    right: 40px;
+   
+
+}
+
+
+.sidebarListItem:hover,
+.sidebarListItem.active{
+    box-shadow: 10px 10px 20px 10px rgb(86, 83, 83);
+    border-radius: 10px;
+    width: 200px;
+    
+}
+.sidebarList{
+    position: relative;
+    list-style: none; 
+    font-size: large;
+}
+.cubuk{
+    text-decoration:none;
+}
+.sidebarIcon1{
+    top:-28px;
+    right: 10px;
+    background-color: rgb(156, 161, 161);
+    border-radius: 30px;
+   
+}
+.sadebarIcon{
+    position: relative;
+    color: rgb(71, 78, 94); 
+}
+
+.sidebarListItemText{
+    color: rgb(11, 11, 11);
+    font-size: 17px;
+   
+}
+.sidebarFriendList{
+    list-style: none; 
+    position: relative;
+    right: 20px;
+}
+.sidebarFriendImg{
+    border-radius: 51px;
+    width: 60px;
+}
+.sidebarFriendImg:hover,
+.sidebarFriendImg.active{
+    box-shadow: 10px 10px 20px 10px rgb(86, 83, 83);
+}
+
+.sidebarButton{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(160, 220, 138);
+    color: rgb(0, 0, 0);
+    border-radius: 20px;
+}
+.topbarIconBadge1{
+    background-color: rgb(20, 220, 70);
+    border-radius: 50px;
+    position: relative;
+    width: 10px;
+    height: 15px;
+   
+}
+.sidebarHr{
+    position: relative;
+    width: 1px;
+    top: 20px;
+}

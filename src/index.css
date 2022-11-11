@@ -1,0 +1,10 @@
+.root{
+    background-color:  rgb(234, 235, 235);
+}
+@media only screen and (max-width: 1000px) {
+    .topbarContainer{width: 100%; margin: 10px 0;}
+    .homeContainer{width: 100%;}
+    .sidebar{width: 100%; margin: 10px 0;}
+    .sharebar{width: 100%; margin: 10px 0;}
+    .share{width: 100%; margin: 10px 0;}
+    } 

@@ -1,0 +1,131 @@
+.topbarContainer{
+    height: 100px;
+    background-color: rgb(248, 249, 250);
+    display: flex;
+}
+
+.topbarLeft{
+    position: relative;
+    left: 60px;
+    top: 10px;
+}
+
+.topbarListItem{
+    display: inline;
+    margin-right: 10px;
+   
+}
+.topbarListItemText1{
+   font-size: 20px;
+   color: rgb(50, 50, 180);
+   
+}
+.topbarCenter{
+    position: relative;
+    left:450px;
+    
+    
+}
+.topbarRight{
+    position: relative;
+    left:900px;
+}
+.searchbar{
+    position: relative;
+    top: 40px;
+    right: 100px;
+    background-color: rgb(225, 214, 214);
+    border-radius: 30px;
+    width: 250px;
+}
+.searchInput{
+    background-color:  rgb(225, 214, 214);;
+    position: relative;
+    top: -3px;
+    width: 200px;
+    border: none;
+}
+.searchInput:focus{
+   outline: none;
+}
+.searchIcon{
+    position: relative;
+    top: 6px;
+   
+}
+.logo{
+    background-color: rgb(14, 14, 14);
+    position: relative;
+    top: 30px;
+    width: 60px;
+    height: 50px;
+    left: 20px;
+}
+
+.tapbarIcon{
+   color:rgb(187, 57, 107);
+   display: inline;
+}
+.topbarIconItem{
+    position: relative;
+    display: inline;
+    color:#e20e5f;
+    top: 35px;
+    left: 110px;
+}
+.topbarIcons{
+   position: relative;
+   left: 80px;
+   top: -20px; 
+}
+.tapbarIcon:hover,
+.tapbarIcon.active{
+    background-color: rgb(147, 209, 233);
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.Icon{
+    display: inline;
+    margin: 12px;
+    top: -110px;
+   
+}
+.Icon:hover,
+.Icon.active{
+    background-color: rgb(158, 180, 189);
+    width: 40px;
+    height: 40x;
+    border-radius: 50px;
+}
+.topbarImg{
+    position: relative;
+    display: inline;
+   border-radius: 50px;
+   width: 70px;
+   height: 70px;
+   left: 360px;
+   top: -55px;
+}
+.topbarIconBadge{
+    position: relative;
+    top: -10px;
+    background-color: rgb(0, 255, 26);
+    color: black;
+    border-radius: 30px;
+    left: 40px;
+    
+}
+.topbarList{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.cubuk1{
+    text-decoration:none;
+}
+
+.Icon1{
+ color: rgb(80, 83, 85);   
+}
+
